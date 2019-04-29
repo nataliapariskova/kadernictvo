@@ -1,0 +1,22 @@
+﻿body {
+       
+}
+
+body {
+    background-color: silver;
+}
+
+li a:hover {
+    background-color: #ff33cc;
+}
+
+
+#vyhladavanie {
+    text-align: right;
+}
+
+
+    /*#nazov_stranky{
+    font-style:italic;
+    font-size:20px;
+}*/

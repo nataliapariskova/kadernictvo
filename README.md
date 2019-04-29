@@ -1,2 +1,0 @@
-# kadernictvo
-kadernictvo
