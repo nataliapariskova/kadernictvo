@@ -85,7 +85,7 @@
   <div class="container">
     <div class="row"> <h1 class="display-8">Kaderníctvo <h1 style="color:#ff33cc" > <b>Natália </b></h1> </h1></div>
     <p class="lead">Už názov prezrádza, že kadernícky salón nesie meno po svojej zakladateľke Natálii Pariškovej, ktorá Vám
-s týmom profesionálov poskytne kvalitné kadernícke služby v príjemnom prostredí v obci Breza. 
+s tímom profesionálov poskytne kvalitné kadernícke služby v príjemnom prostredí v obci Breza. 
 Ak sa rozhodnete zavítať do kaderníctva,
  myslite na to, že sa treba včas objednať na tel. čísle 0910 000 000 </p>
  <p class="lead"> Štýlové kaderníctvo funguje od roku 2015 a ponúka kompletné kadernícke služby, pohodlie, komfort a prácu s tou najkvalitnejšiou vlasovou kozmetikou. 
